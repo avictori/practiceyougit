@@ -1,4 +1,4 @@
-# My Notes Reagrding the Water File
+# My Notes Regarding the Water File
 ## Welcome to My Water File
 
 ### What I did
